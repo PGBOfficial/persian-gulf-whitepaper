@@ -1,4 +1,4 @@
-# persian-gulf-whitepaper
+# PGB-whitepaper
 PGB
 Persian Gulf Blockchain
 Introduction – Project Overview
